@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the following metadata."
+title: "Interstellar impactors"
+version: "1.0.0"
+date-released: 2025-11-19
+authors:
+  - family-names: "Marceta"
+    given-names: "Dusan"
+    orcid: "0000-0003-4706-4602"
+  - family-names: "Seligman"
+    given-names: "Darryl"
+    orcid: "0000-0002-0726-6480"
+  - family-names: "Peña Asensio"
+    given-names: "Eloy"
+    orcid: "0000-0002-7257-2150"
+abstract: "We simulate the impact of interstellar objects on Earth by generating a synthetic population of objects with M-star kinematics and computing the subset that collides with the planet."
+repository-code: "https://github.com/dusanmarceta/interstellar_impactors"
